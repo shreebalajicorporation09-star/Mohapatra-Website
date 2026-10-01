@@ -1,4 +1,1 @@
-const menu=document.querySelector('.menu-toggle'),nav=document.querySelector('.main-nav');
-if(menu)menu.addEventListener('click',()=>nav.classList.toggle('open'));
-document.querySelectorAll('.main-nav a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));
-const year=document.getElementById('year'); if(year) year.textContent=new Date().getFullYear();
+document.addEventListener('DOMContentLoaded',()=>{const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();const btn=document.querySelector('.menu-toggle');const nav=document.querySelector('.main-nav');if(btn&&nav){btn.addEventListener('click',()=>nav.classList.toggle('open'));nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')))}});
