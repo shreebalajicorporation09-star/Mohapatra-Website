@@ -1,8 +1,13 @@
-Mohapatra Enterprises Website - Updated Package
+MOHAPATRA ENTERPRISES — UPDATED WEBSITE PACKAGE
 
-Updates:
-- Updated sector and service images to content-specific HD visuals.
-- Updated Material Testing Laboratory scope to sand, sandstone, stone aggregate and soil samples.
-- Changed visible JCP Marking text to GCP Marking.
-- Retained client logo package from the latest website build.
-- Retained INKA and AMPIN removal from the client list.
+Updates in this package:
+- More premium, professional visual system with navy/blue engineering palette.
+- Sticky header with logo, navigation and consultation CTA.
+- Improved hero, section spacing, cards, shadows, typography and backgrounds.
+- Added a dedicated technical collaboration showcase using project-planning and design-review images.
+- Design Engineering Consultancy and Project Management Consultancy cards now use the supplied professional technical-team imagery.
+- Sector and service images are matched to their content.
+- GCP Marking wording is used in the field-work gallery.
+- Existing client-logo presentation is retained from the latest working package.
+
+Deploy the contents to the same GitHub Pages repository.
